@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kumarama3
+- 👋 Hi, I’m Kumaramangalam Vangavolu
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Natural Language Processing
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...kumarvrsec@gmail.com
 
 <!---
 kumarama3/kumarama3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
